@@ -1,0 +1,49 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793963834553261_1.log"
+Target camera serial: DA4302122
+SDK initialized
+USB camera count: 2
+[0] Model: MV-CS016-10UC  Serial: DA4302122
+[1] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO model loaded: "/home/jxzy/CLionProjects/work/models/best.onnx"
+ExposureTime allowed range: [15, 9.99981e+06] us
+ExposureTime requested=500 actual=500 us
+Gain allowed range: [0, 16.9807] dB
+Gain requested=0 actual=0 dB
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+Click the image window: S saves a frame; Q or Esc exits
+YOLO inference succeeded: output shape=(1,18,8400)
+YOLO postprocess succeeded, detections: 0
+Image statistics: mean_gray=0.355, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963859332604_1.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963859332604_1.png"
+Image statistics: mean_gray=0.360, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963864017635_2.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963864017635_2.png"
+Image statistics: mean_gray=0.468, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963915159119_3.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963915159119_3.png"
+Image statistics: mean_gray=0.264, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963939949368_4.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963939949368_4.png"
+Image statistics: mean_gray=0.292, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963940584234_5.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963940584234_5.png"
+Image statistics: mean_gray=0.521, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963954724016_6.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963954724016_6.png"
+Image statistics: mean_gray=0.509, saturation(gray>=250)=0.0000%
+Statistics saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963958799099_7.csv"
+Image saved: "/home/jxzy/CLionProjects/work/captures/frame_1793963958799099_7.png"
+Image window closed
+Acquisition stopped
+Frames processed: 2234
+Buffers borrowed=2234 returned=2234
+Capture performance: fps=17.0878 process_cpu_percent(one core=100)=2501.28
+Mean time(ms): get_buffer=0.0417604 format_conversion=0.24201 ownership_copy=0 yolo_pipeline=49.1181
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793963965640488_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released

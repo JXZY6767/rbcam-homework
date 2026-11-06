@@ -1,0 +1,2 @@
+source,serial,native_pixel_format,width,height,yolo_enabled,display_enabled,requested_frames,processed_frames,borrowed_frames,returned_frames,elapsed_seconds,processing_fps,process_cpu_percent_one_core_100,mean_get_buffer_ms,mean_format_conversion_ms,mean_ownership_copy_ms,mean_yolo_pipeline_ms,mean_get_to_result_ms,status,simulation,simulation_triggered
+"usb_device","DA4302122","0x01080009",1440,1080,0,0,30,3,4,4,0.024822779,120.85673405060732,321.6722833490964,5.0671059999999999,1.1813136666666668,0,0,6.2589989999999993,-1,"format",1

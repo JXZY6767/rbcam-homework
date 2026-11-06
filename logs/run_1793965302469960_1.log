@@ -1,0 +1,24 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793965302469960_1.log"
+Target camera serial: DA4302122
+SDK initialized
+USB camera count: 2
+[0] Model: MV-CS016-10UC  Serial: DA4302122
+[1] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO disabled: capture/format performance test
+Camera settings: keeping current device settings
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+[SIMULATION] Injecting unsupported conversion format
+[ERROR] Image conversion: Unsupported pixel format
+Simulation mode: format; triggered=1
+Acquisition stopped
+Frames processed: 3
+Buffers borrowed=4 returned=4
+Capture performance: fps=120.857 process_cpu_percent(one core=100)=321.672
+Mean time(ms): get_buffer=5.06711 format_conversion=1.18131 ownership_copy=0 yolo_pipeline=0
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793965302683209_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released

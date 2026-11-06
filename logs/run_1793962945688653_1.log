@@ -1,0 +1,28 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793962945688653_1.log"
+Target camera serial: DA4302122
+SDK initialized
+USB camera count: 2
+[0] Model: MV-CS016-10UC  Serial: DA4302122
+[1] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO model loaded: "/home/jxzy/CLionProjects/work/models/best.onnx"
+ExposureTime allowed range: [15, 9.99981e+06] us
+ExposureTime requested=18000 actual=18000 us
+Gain allowed range: [0, 16.9807] dB
+Gain requested=6 actual=5.9953 dB
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+Click the image window: S saves a frame; Q or Esc exits
+YOLO inference succeeded: output shape=(1,18,8400)
+YOLO postprocess succeeded, detections: 0
+Image window closed
+Acquisition stopped
+Frames processed: 1235
+Buffers borrowed=1235 returned=1235
+Capture performance: fps=17.0305 process_cpu_percent(one core=100)=2491.55
+Mean time(ms): get_buffer=0.0421707 format_conversion=0.244122 ownership_copy=0 yolo_pipeline=49.0277
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793963018582110_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released

@@ -1,0 +1,23 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793875275532041_1.log"
+Target camera serial: Vir53692095
+SDK initialized
+USB camera count: 1
+[0] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO disabled: capture/format performance test
+Camera settings: keeping current device settings
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+[SIMULATION] Injecting timeout; no new SDK buffer is borrowed
+[ERROR] GetImageBuffer failed, code=0x80000007
+Simulation mode: timeout; triggered=1
+Acquisition stopped
+Frames processed: 3
+Buffers borrowed=3 returned=3
+Capture performance: fps=7.65873 process_cpu_percent(one core=100)=100.084
+Mean time(ms): get_buffer=125.527 format_conversion=3.54149 ownership_copy=0 yolo_pipeline=0
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793875276164068_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released

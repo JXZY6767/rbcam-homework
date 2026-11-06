@@ -1,0 +1,2 @@
+image,width,height,mean_gray,saturated_pixels,total_pixels,saturation_percent,gray_threshold,saved_format
+frame_1793966169011209_2.png,1440,1080,102.68090663580247,141333,1555200,9.0877700617283956,250,BGR8_PNG

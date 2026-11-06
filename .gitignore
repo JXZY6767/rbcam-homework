@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+.idea/
+.agents/
+.aws/
+.codex/
+__pycache__/
+*.pyc
+core
+core.*
+.env
+.env.*
+robomaster-camera-homework.zip
+# 作业证据captures/、logs/、docs/evidence/和模型保留。

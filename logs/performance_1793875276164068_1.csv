@@ -1,0 +1,2 @@
+source,serial,native_pixel_format,width,height,yolo_enabled,display_enabled,requested_frames,processed_frames,borrowed_frames,returned_frames,elapsed_seconds,processing_fps,process_cpu_percent_one_core_100,mean_get_buffer_ms,mean_format_conversion_ms,mean_ownership_copy_ms,mean_yolo_pipeline_ms,mean_get_to_result_ms,status,simulation,simulation_triggered
+"virtual_device","Vir53692095","0x02180014",4096,3000,0,0,30,3,3,3,0.391709951,7.6587280776025013,100.08374793623766,125.52712766666667,3.5414879999999997,0,0,129.08985233333331,-2147483641,"timeout",1

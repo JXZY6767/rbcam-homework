@@ -1,0 +1,26 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793964487573051_1.log"
+Target camera serial: DA4302122
+SDK initialized
+USB camera count: 2
+[0] Model: MV-CS016-10UC  Serial: DA4302122
+[1] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO disabled: capture/format performance test
+Native PixelFormat requested=BayerRG8 actual=0x1080009
+ExposureTime allowed range: [15, 9.99981e+06] us
+ExposureTime requested=1000 actual=1000 us
+Gain allowed range: [0, 16.9807] dB
+Gain requested=0 actual=0 dB
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+Frame limit reached
+Acquisition stopped
+Frames processed: 300
+Buffers borrowed=300 returned=300
+Capture performance: fps=165.292 process_cpu_percent(one core=100)=563.806
+Mean time(ms): get_buffer=5.78206 format_conversion=0.261705 ownership_copy=0 yolo_pipeline=0
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793964489596494_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released

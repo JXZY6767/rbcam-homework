@@ -1,0 +1,24 @@
+Run log: "/home/jxzy/CLionProjects/work/logs/run_1793876030715115_1.log"
+Target camera serial: Vir53692095
+SDK initialized
+USB camera count: 1
+[0] Model: MV-CH120-10UC  Serial: Vir53692095
+Camera handle created
+Camera opened
+YOLO model loaded: "/home/jxzy/CLionProjects/work/models/best.onnx"
+Camera settings: keeping current device settings
+Acquisition started
+Image output directory: "/home/jxzy/CLionProjects/work/captures"
+Click the image window: S saves a frame; Q or Esc exits
+YOLO inference succeeded: output shape=(1,18,8400)
+YOLO postprocess succeeded, detections: 0
+Exit requested by keyboard
+Acquisition stopped
+Frames processed: 26
+Buffers borrowed=26 returned=26
+Capture performance: fps=6.25795 process_cpu_percent(one core=100)=1069.51
+Mean time(ms): get_buffer=80.8126 format_conversion=2.70713 ownership_copy=0 yolo_pipeline=59.3375
+Performance summary saved: "/home/jxzy/CLionProjects/work/logs/performance_1793876035260951_1.csv"
+Camera closed
+Camera handle destroyed
+SDK released
